@@ -1,0 +1,25 @@
+[debug] [2024-04-26T12:08:46.767Z] ----------------------------------------------------------------------
+[debug] [2024-04-26T12:08:46.784Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\welcome\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-26T12:08:46.786Z] CLI Version:   13.7.5
+[debug] [2024-04-26T12:08:46.786Z] Platform:      win32
+[debug] [2024-04-26T12:08:46.790Z] Node Version:  v20.10.0
+[debug] [2024-04-26T12:08:46.790Z] Time:          Fri Apr 26 2024 15:08:46 GMT+0300 (Eastern European Summer Time)
+[debug] [2024-04-26T12:08:46.791Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-26T12:08:47.218Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-26T12:08:47.222Z] > authorizing via signed-in user (omarmode35@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\welcome\Desktop\E-commerce -NextJs\ecommerce1
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
